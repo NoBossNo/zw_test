@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

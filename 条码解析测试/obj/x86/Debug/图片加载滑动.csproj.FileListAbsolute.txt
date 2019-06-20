@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\条码解析测试\obj\x86\Debug\条码解析测试.exe
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\条码解析测试\obj\x86\Debug\条码解析测试.pdb
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\条码解析测试\bin\Debug\条码解析测试.exe
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\条码解析测试\bin\Debug\条码解析测试.pdb
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\条码解析测试\obj\x86\Debug\条码解析测试.Form1.resources
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\条码解析测试\obj\x86\Debug\图片加载滑动.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QueryService_1\条码解析测试\条码解析测试\obj\x86\Debug\图片加载滑动.csprojResolveAssemblyReference.cache

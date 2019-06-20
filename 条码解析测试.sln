@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "图片加载滑动", "条码解析测试\图片加载滑动.csproj", "{781BA3B1-458D-40AE-A3E9-77E5FEAA3F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{E51AC779-88C0-4BB0-87E4-324264A37AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781BA3B1-458D-40AE-A3E9-77E5FEAA3F23}.Debug|x86.ActiveCfg = Debug|x86
+		{781BA3B1-458D-40AE-A3E9-77E5FEAA3F23}.Debug|x86.Build.0 = Debug|x86
+		{781BA3B1-458D-40AE-A3E9-77E5FEAA3F23}.Release|x86.ActiveCfg = Release|x86
+		{781BA3B1-458D-40AE-A3E9-77E5FEAA3F23}.Release|x86.Build.0 = Release|x86
+		{E51AC779-88C0-4BB0-87E4-324264A37AE6}.Debug|x86.ActiveCfg = Debug|x86
+		{E51AC779-88C0-4BB0-87E4-324264A37AE6}.Debug|x86.Build.0 = Debug|x86
+		{E51AC779-88C0-4BB0-87E4-324264A37AE6}.Release|x86.ActiveCfg = Release|x86
+		{E51AC779-88C0-4BB0-87E4-324264A37AE6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
